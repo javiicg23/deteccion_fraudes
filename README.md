@@ -22,8 +22,8 @@ El modelo con mejor desempeño fue Random Forest, alcanzando un AUPRC de 0.84, u
 - Matplotlib/Seaborn
 
 ## Estructura del repositorio
-- `notebooks/`: análisis exploratorio, modelado y predicción, mencionando el porqué se tomaron aquellas decisiones
-- `src/`: funciones y scripts principales  
+- `informe/`: análisis exploratorio, modelado y predicción, mencionando el porqué se tomaron aquellas decisiones
+- `code/`: funciones y scripts principales  
 - `README.md`: documentación del proyecto
 
 ## Conclusiones
